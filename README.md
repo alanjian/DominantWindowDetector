@@ -27,4 +27,4 @@
 
 # Try Now!
 * X64 Version with CMD window
-  *https://drive.google.com/drive/folders/1NqK7853JpNnnBQYhvfbBxO9aNC9ZGeeB?usp=sharing
+  * https://drive.google.com/drive/folders/1NqK7853JpNnnBQYhvfbBxO9aNC9ZGeeB?usp=sharing
