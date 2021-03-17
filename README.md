@@ -8,7 +8,7 @@ The follow informaiton will be collected by the FWD
 1.  PK      : Primary key (IPAdr_SDa_STm)
 2.  SDa     : Window start focused date (YYYY-MM-DD)
 3.  STm     : Window start focused time (HH:MM:SS)
-4.  FWinID  : Focused Window PID
+4.  FWinHWND: Focused Window HWND(Handle to a window)
 5.  FTm     : Window Focused Time
 6.  FWinTit : Focused Window Title
 7.  EDa     : Window end focused date (YYYY-MM-DD)
