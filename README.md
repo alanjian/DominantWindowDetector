@@ -1,8 +1,10 @@
 # FocusedWindowDetector(FWD)
 An easy way to retrieve the window switching event based on Go programing language
 
-The follow informaiton will be collected by the FWD:
 
+1.Data collection:
+
+The follow informaiton will be collected by the FWD
 1.  PK      : Primary key (IPAdr_SDa_STm)
 2.  SDa     : Window start focused date (YYYY-MM-DD)
 3.  STm     : Window start focused time (HH:MM:SS)
