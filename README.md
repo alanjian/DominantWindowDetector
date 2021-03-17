@@ -26,6 +26,5 @@
 
 
 # Try Now!
-
-X64 Version with CMD window
-https://github.com/alanjian/FocusedWindowDetector/blob/main/FWD100x64(withCMD).exe
+* X64 Version with CMD window
+shorturl.at/envMS
