@@ -25,6 +25,6 @@
 * {"PK":"10.20.15.82_2021-03-17_11:34:42.73300", "SDa":"2021-03-17", "STm":"11:34:42.73300", "FWinHWND":"526862", "FTm":"0.93886", "FWinTit":"New Page - Google Chrome", "EDa":"2021-03-17", "ETm":"11:34:43.70078", "ScnZL":"1.50", "FWinPX":"-10", "FWinPY":"-10", "FWinWid":"2582", "FWinHei":"1403", "IFType":"Ethernet", "IPAdr":"10.20.15.82", "CompUUID":"707c296f-9e06-4198-b6b2-683c305f70e5"}
 
 
-# Try Now!
+# Try  Now!
 * X64 Version with CMD window
   * https://drive.google.com/file/d/1R3m52DCuTUqmgrssojrrBCQW3PcT1LpG/view?usp=sharing
