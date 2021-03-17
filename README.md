@@ -3,7 +3,7 @@
 
 
 # Data Structure:
-* The follow informaiton will be collected by the FWD
+* The following informaiton will be collected by the FWD
 1.  PK      : Primary key (IPAdr_SDa_STm)
 2.  SDa     : Window start focused date (YYYY-MM-DD)
 3.  STm     : Window start focused time (HH:MM:SS)
