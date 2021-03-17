@@ -14,8 +14,8 @@ The follow informaiton will be collected by the FWD
 7.  EDa     : Window end focused date (YYYY-MM-DD)
 8.  ETm     : Window end focused time (HH:MM:SS)
 9.  ScnZL   : Screen zoom level (1 = Normal, 1.5 = 150% Zoom in)
-10. FWinPX  : Focused Window X coordinate position
-11. FWinPY  : Focused Window Y coordinate position
+10. FWinPX  : Focused Window X coordinate start position
+11. FWinPY  : Focused Window Y coordinate start position
 12. FWinWid : Focused Window Width
 13. FWinHei : Focused Window Heigh
 14. IFType  : InternetFaceType (e.g., Ethernet or Wifi)
