@@ -8,7 +8,7 @@
 2.  SDa     : Window start focused date (YYYY-MM-DD)
 3.  STm     : Window start focused time (HH:MM:SS)
 4.  FWinHWND: Focused Window HWND(Handle to a window)
-5.  FTm     : Window Focused Time
+5.  FTm     : Window Focused Time (= EDa_ETm - SDa_STm)
 6.  FWinTit : Focused Window Title
 7.  EDa     : Window end focused date (YYYY-MM-DD)
 8.  ETm     : Window end focused time (HH:MM:SS)
