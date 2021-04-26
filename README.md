@@ -1,22 +1,22 @@
-# FocusedWindowDetector(FWD)
+# DominantWindowDetector(DWD)
 * An easy way to retrieve the window switching event based on Go programing language
 
 
 # Data Structure:
-* The following informaiton will be collected by the FWD
+* The following informaiton will be collected by the DWD
 1.  PK      : Primary key (IPAdr_SDa_STm)
 2.  SDa     : Window start focused date (YYYY-MM-DD)
 3.  STm     : Window start focused time (HH:MM:SS)
-4.  FWinHWND: Focused Window HWND(Handle to a window)
+4.  FWinHWND: Dominant Window HWND(Handle to a window)
 5.  FTm     : Window Focused Time (= EDa_ETm - SDa_STm)
-6.  FWinTit : Focused Window Title
+6.  FWinTit : Dominant Window Title
 7.  EDa     : Window end focused date (YYYY-MM-DD)
 8.  ETm     : Window end focused time (HH:MM:SS)
 9.  ScnZL   : Screen zoom level (1 = Normal, 1.5 = 150% Zoom in)
-10. FWinPX  : Focused Window X coordinate start position
-11. FWinPY  : Focused Window Y coordinate start position
-12. FWinWid : Focused Window Width
-13. FWinHei : Focused Window Heigh
+10. FWinPX  : Dominant Window X coordinate start position
+11. FWinPY  : Dominant Window Y coordinate start position
+12. FWinWid : Dominant Window Width
+13. FWinHei : Dominant Window Heigh
 14. IFType  : InternetFaceType (e.g., Ethernet or Wifi)
 15. IPAdr   : InternetProtocolAddress
 16. CompUUID: Computer Universally Unique Identifier
